@@ -6,9 +6,3 @@
 # @github  :  Aaron Ramsey
 # @File    : test.py
 
-# test for github、
-
-
-# test fork 1234
-
-# test for 12321321321321312
