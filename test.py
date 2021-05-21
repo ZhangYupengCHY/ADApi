@@ -6,8 +6,6 @@
 # @github  :  Aaron Ramsey
 # @File    : test.py
 
-# test for github、
+# test for git
 
-
-# test fork 1234
 
