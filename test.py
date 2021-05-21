@@ -8,3 +8,10 @@
 
 
 # go go develop
+
+
+# right now Iam develop very hard.
+
+
+
+# develop oky
